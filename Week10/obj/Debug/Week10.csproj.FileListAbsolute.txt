@@ -1,0 +1,11 @@
+D:\ITS\OneDrive - Humber College\Semester 2\ITE-5230-IRA-Application Dev using C#.Net\ClassSandbox\Week10\Week10\obj\Debug\Week10.csproj.AssemblyReference.cache
+D:\ITS\OneDrive - Humber College\Semester 2\ITE-5230-IRA-Application Dev using C#.Net\ClassSandbox\Week10\Week10\obj\Debug\Week10.AddItemForm.resources
+D:\ITS\OneDrive - Humber College\Semester 2\ITE-5230-IRA-Application Dev using C#.Net\ClassSandbox\Week10\Week10\obj\Debug\Week10.Inventory.resources
+D:\ITS\OneDrive - Humber College\Semester 2\ITE-5230-IRA-Application Dev using C#.Net\ClassSandbox\Week10\Week10\obj\Debug\Week10.Properties.Resources.resources
+D:\ITS\OneDrive - Humber College\Semester 2\ITE-5230-IRA-Application Dev using C#.Net\ClassSandbox\Week10\Week10\obj\Debug\Week10.csproj.GenerateResource.cache
+D:\ITS\OneDrive - Humber College\Semester 2\ITE-5230-IRA-Application Dev using C#.Net\ClassSandbox\Week10\Week10\obj\Debug\Week10.csproj.CoreCompileInputs.cache
+D:\ITS\OneDrive - Humber College\Semester 2\ITE-5230-IRA-Application Dev using C#.Net\ClassSandbox\Week10\Week10\bin\Debug\Week10.exe.config
+D:\ITS\OneDrive - Humber College\Semester 2\ITE-5230-IRA-Application Dev using C#.Net\ClassSandbox\Week10\Week10\bin\Debug\Week10.exe
+D:\ITS\OneDrive - Humber College\Semester 2\ITE-5230-IRA-Application Dev using C#.Net\ClassSandbox\Week10\Week10\bin\Debug\Week10.pdb
+D:\ITS\OneDrive - Humber College\Semester 2\ITE-5230-IRA-Application Dev using C#.Net\ClassSandbox\Week10\Week10\obj\Debug\Week10.exe
+D:\ITS\OneDrive - Humber College\Semester 2\ITE-5230-IRA-Application Dev using C#.Net\ClassSandbox\Week10\Week10\obj\Debug\Week10.pdb

@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\Week10\\Week10\\",
+  "WorkspaceRootPath": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\week10\\inventory-week10\\Week10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|d:\\its\\onedrive - humber college\\semester 2\\ite-5230-ira-application dev using c#.net\\classsandbox\\week10\\week10\\inventorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|solutionrelative:inventorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|d:\\its\\onedrive - humber college\\semester 2\\ite-5230-ira-application dev using c#.net\\classsandbox\\week10\\week10\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|solutionrelative:inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|d:\\its\\onedrive - humber college\\semester 2\\ite-5230-ira-application dev using c#.net\\classsandbox\\week10\\week10\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|d:\\its\\onedrive - humber college\\semester 2\\ite-5230-ira-application dev using c#.net\\classsandbox\\week10\\inventory-week10\\week10\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|d:\\its\\onedrive - humber college\\semester 2\\ite-5230-ira-application dev using c#.net\\classsandbox\\week10\\week10\\additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|d:\\its\\onedrive - humber college\\semester 2\\ite-5230-ira-application dev using c#.net\\classsandbox\\week10\\inventory-week10\\week10\\additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|solutionrelative:additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|d:\\its\\onedrive - humber college\\semester 2\\ite-5230-ira-application dev using c#.net\\classsandbox\\week10\\week10\\additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|d:\\its\\onedrive - humber college\\semester 2\\ite-5230-ira-application dev using c#.net\\classsandbox\\week10\\inventory-week10\\week10\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|d:\\its\\onedrive - humber college\\semester 2\\ite-5230-ira-application dev using c#.net\\classsandbox\\week10\\inventory-week10\\week10\\inventorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|solutionrelative:inventorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|d:\\its\\onedrive - humber college\\semester 2\\ite-5230-ira-application dev using c#.net\\classsandbox\\week10\\inventory-week10\\week10\\additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|solutionrelative:additemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|d:\\its\\onedrive - humber college\\semester 2\\ite-5230-ira-application dev using c#.net\\classsandbox\\week10\\week10\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|solutionrelative:inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|d:\\its\\onedrive - humber college\\semester 2\\ite-5230-ira-application dev using c#.net\\classsandbox\\week10\\inventory-week10\\week10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7E589C-7E02-4E84-AAC8-AB2D06F9624B}|Week10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -51,77 +51,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AddItemForm.cs",
-              "DocumentMoniker": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\Week10\\Week10\\AddItemForm.cs",
-              "RelativeDocumentMoniker": "AddItemForm.cs",
-              "ToolTip": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\Week10\\Week10\\AddItemForm.cs",
-              "RelativeToolTip": "AddItemForm.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAwwC0AAAATAAAA",
+              "Title": "InventoryDB.cs",
+              "DocumentMoniker": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\week10\\inventory-week10\\Week10\\InventoryDB.cs",
+              "RelativeDocumentMoniker": "InventoryDB.cs",
+              "ToolTip": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\week10\\inventory-week10\\Week10\\InventoryDB.cs",
+              "RelativeToolTip": "InventoryDB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T03:13:56.219Z",
+              "WhenOpened": "2024-03-22T03:56:54.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddItemForm.cs",
+              "DocumentMoniker": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\week10\\inventory-week10\\Week10\\AddItemForm.cs",
+              "RelativeDocumentMoniker": "AddItemForm.cs",
+              "ToolTip": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\week10\\inventory-week10\\Week10\\AddItemForm.cs",
+              "RelativeToolTip": "AddItemForm.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:53:00.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "AddItemForm.cs [Design]",
-              "DocumentMoniker": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\Week10\\Week10\\AddItemForm.cs",
+              "DocumentMoniker": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\week10\\inventory-week10\\Week10\\AddItemForm.cs",
               "RelativeDocumentMoniker": "AddItemForm.cs",
-              "ToolTip": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\Week10\\Week10\\AddItemForm.cs [Design]",
+              "ToolTip": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\week10\\inventory-week10\\Week10\\AddItemForm.cs [Design]",
               "RelativeToolTip": "AddItemForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T03:13:55.052Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Inventory.cs",
-              "DocumentMoniker": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\Week10\\Week10\\Inventory.cs",
-              "RelativeDocumentMoniker": "Inventory.cs",
-              "ToolTip": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\Week10\\Week10\\Inventory.cs",
-              "RelativeToolTip": "Inventory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T03:13:23.718Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Inventory.cs [Design]",
-              "DocumentMoniker": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\Week10\\Week10\\Inventory.cs",
-              "RelativeDocumentMoniker": "Inventory.cs",
-              "ToolTip": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\Week10\\Week10\\Inventory.cs [Design]",
-              "RelativeToolTip": "Inventory.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T03:13:22.367Z",
+              "WhenOpened": "2024-03-22T03:52:58.297Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InventoryDB.cs",
-              "DocumentMoniker": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\Week10\\Week10\\InventoryDB.cs",
-              "RelativeDocumentMoniker": "InventoryDB.cs",
-              "ToolTip": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\Week10\\Week10\\InventoryDB.cs",
-              "RelativeToolTip": "InventoryDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\week10\\inventory-week10\\Week10\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\week10\\inventory-week10\\Week10\\Inventory.cs",
+              "RelativeToolTip": "Inventory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T03:12:12.438Z",
+              "WhenOpened": "2024-03-22T03:51:27.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InventoryItem.cs",
-              "DocumentMoniker": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\Week10\\Week10\\InventoryItem.cs",
-              "RelativeDocumentMoniker": "InventoryItem.cs",
-              "ToolTip": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\Week10\\Week10\\InventoryItem.cs",
-              "RelativeToolTip": "InventoryItem.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "DocumentIndex": 2,
+              "Title": "Inventory.cs [Design]",
+              "DocumentMoniker": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\week10\\inventory-week10\\Week10\\Inventory.cs",
+              "RelativeDocumentMoniker": "Inventory.cs",
+              "ToolTip": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\week10\\inventory-week10\\Week10\\Inventory.cs [Design]",
+              "RelativeToolTip": "Inventory.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-22T03:12:01.344Z",
+              "WhenOpened": "2024-03-22T03:51:26.275Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\week10\\inventory-week10\\Week10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ITS\\OneDrive - Humber College\\Semester 2\\ITE-5230-IRA-Application Dev using C#.Net\\ClassSandbox\\week10\\inventory-week10\\Week10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:55:10.21Z",
               "EditorCaption": ""
             }
           ]

@@ -42,6 +42,7 @@
             this.listBoxOfItems.Name = "listBoxOfItems";
             this.listBoxOfItems.Size = new System.Drawing.Size(455, 180);
             this.listBoxOfItems.TabIndex = 0;
+            this.listBoxOfItems.SelectedIndexChanged += new System.EventHandler(this.listBoxOfItems_SelectedIndexChanged);
             // 
             // btnAdd
             // 

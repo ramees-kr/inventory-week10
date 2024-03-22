@@ -11,52 +11,66 @@ namespace Week10
 {
     public class InventoryDB
     {
-        private readonly string path;
+        private readonly string filePath;
         private const char Delimiter = '|';
 
         public InventoryDB(string filePath)
         {
-            path = filePath;
+            this.filePath = filePath;
         }
 
-        public List<InventoryItem> GetItems()
+        public List<InventoryItem> GetAllItems()
         {
             List<InventoryItem> items = new List<InventoryItem>();
 
-            using (StreamReader textIn = new StreamReader(new FileStream(path, FileMode.OpenOrCreate, FileAccess.Read)))
+            using (StreamReader reader = new StreamReader(filePath))
             {
-                string row;
-                while ((row = textIn.ReadLine()) != null)
+                string line;
+                while ((line = reader.ReadLine()) != null)
                 {
-                    string[] columns = row.Split(Delimiter);
-
-                    if (columns.Length == 3)
+                    string[] parts = line.Split(Delimiter);
+                    InventoryItem item = new InventoryItem
                     {
-                        InventoryItem item = new InventoryItem
-                        {
-                            ItemNo = Convert.ToInt32(columns[0]),
-                            Description = columns[1],
-                            Price = Convert.ToDecimal(columns[2])
-                        };
-                        items.Add(item);
-                    }
+                        ItemNo = int.Parse(parts[0]),
+                        Description = parts[1],
+                        Price = decimal.Parse(parts[2])
+                    };
+                    items.Add(item);
                 }
             }
+
             return items;
         }
 
-        public void SaveItems(List<InventoryItem> items)
+        public void AddItem(InventoryItem newItem)
         {
-            using (StreamWriter textOut = new StreamWriter(new FileStream(path, FileMode.Create, FileAccess.Write)))
+            using (StreamWriter writer = new StreamWriter(filePath, true))
             {
-                foreach (InventoryItem item in items)
+                writer.WriteLine(newItem);
+            }
+        }
+
+        public void DeleteItem(int itemNo)
+        {
+            List<InventoryItem> items = GetAllItems();
+            InventoryItem itemToRemove = items.FirstOrDefault(item => item.ItemNo == itemNo);
+
+            if (itemToRemove != null)
+            {
+                items.Remove(itemToRemove);
+
+                using (StreamWriter writer = new StreamWriter(filePath))
                 {
-                    textOut.Write(item.ItemNo + Delimiter);
-                    textOut.Write(item.Description + Delimiter);
-                    textOut.WriteLine(item.Price);
+                    foreach (InventoryItem item in items)
+                    {
+                        writer.WriteLine(item);
+                    }
                 }
+            }
+            else
+            {
+                Console.WriteLine("Item not found.");
             }
         }
     }
-
 }

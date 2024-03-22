@@ -14,7 +14,7 @@ namespace Week10
 
         public override string ToString()
         {
-            return $"{ItemNo} | {Description} | {Price}";
+            return $"{ItemNo}|{Description}|{Price}";
         }
     }
 

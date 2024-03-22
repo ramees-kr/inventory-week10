@@ -12,44 +12,48 @@ namespace Week10
 {
     public partial class AddItemForm : Form
     {
-        private List<InventoryItem> inventoryItems;
 
-        public AddItemForm(List<InventoryItem> items)
+        private InventoryDB inventoryDB;
+
+        public AddItemForm(InventoryDB inventoryDB)
         {
             InitializeComponent();
-            inventoryItems = items;
+            this.inventoryDB = inventoryDB;
         }
 
         private void btnSave_Click(object sender, EventArgs e)
         {
-            int itemNo;
-            if (!int.TryParse(txtBoxItemNumber.Text, out itemNo))
+            if (!string.IsNullOrWhiteSpace(txtBoxItemNumber.Text) &&
+                !string.IsNullOrWhiteSpace(txtBoxDescription.Text) &&
+                !string.IsNullOrWhiteSpace(textBoxPrice.Text))
             {
-                MessageBox.Show("Invalid item number. Please enter a valid integer.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
+                int itemNo = int.Parse(txtBoxItemNumber.Text);
+                string description = txtBoxDescription.Text;
+                decimal price = decimal.Parse(textBoxPrice.Text);
+
+                InventoryItem newItem = new InventoryItem { ItemNo = itemNo, Description = description, Price = price };
+                inventoryDB.AddItem(newItem);
+
+                MessageBox.Show("Item added successfully.", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                ClearFields();
+                Close();
             }
-
-            decimal price;
-            if (!decimal.TryParse(textBoxPrice.Text, out price))
+            else
             {
-                MessageBox.Show("Invalid price. Please enter a valid decimal value.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
+                MessageBox.Show("Please fill in all fields.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-
-            InventoryItem newItem = new InventoryItem
-            {
-                ItemNo = itemNo,
-                Description = txtBoxDescription.Text,
-                Price = price
-            };
-
-            inventoryItems.Add(newItem);
-            this.Close();
         }
 
         private void btnClose_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Close();
+        }
+
+        private void ClearFields()
+        {
+            txtBoxItemNumber.Clear();
+            txtBoxDescription.Clear();
+            textBoxPrice.Clear();
         }
     }
 }
